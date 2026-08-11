@@ -1,0 +1,37 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+body {
+  background-color: paleturquoise;
+  font-family: cursive;
+}
+
+.add-user-box {
+  color: black;
+  border-radius: 10px;
+  background-color: pink;
+}
+
+.user-list-box {
+  color: black;
+  border-radius: 10px;
+  background-color: pink;
+}
+
+.img {
+  padding: 5px;
+  border: 1px solid black;
+  width: 85px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.list-group-item {
+  background-color: papayawhip;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: lightsalmon;
+}
